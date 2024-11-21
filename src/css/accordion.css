@@ -42,7 +42,7 @@ main {
 }
 
 .accordion__toggle-logo {
-    transition: transform 0.3 linear;
+    transition: transform 0.3s linear;
 }
 
 /* -------------------- */
@@ -50,7 +50,7 @@ main {
 .accordion__description-container {
     max-height: 0;
     overflow: hidden;
-    transition: max-height 0.3 linear;
+    transition: max-height 0.3s linear;
     background-color: var(--color-secondary);
 }
 
